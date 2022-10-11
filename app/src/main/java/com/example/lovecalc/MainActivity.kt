@@ -1,4 +1,4 @@
-package com.example.lovecalc.ui
+package com.example.lovecalc
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
