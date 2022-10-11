@@ -4,6 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.lovecalc.data.models.LoveModel
+import com.example.lovecalc.databinding.ItemHistoryBinding
 
 class HistoryAdapter(private val list: ArrayList<LoveModel>) :
     RecyclerView.Adapter<HistoryAdapter.HistoryViewHolder>() {

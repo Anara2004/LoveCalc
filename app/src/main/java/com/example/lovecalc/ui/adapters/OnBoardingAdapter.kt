@@ -4,6 +4,8 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.lovecalc.data.models.OnBoardingModel
+import com.example.lovecalc.databinding.ItemOnBoardingBinding
+import com.example.lovecalc.ui.inter.TransitionLoveCalculate
 
 class OnBoardingAdapter(
     private val list: ArrayList<OnBoardingModel>,
